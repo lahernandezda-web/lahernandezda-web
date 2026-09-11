@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Luis 👋
 
-<!--
-**lahernandezda-web/lahernandezda-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de segundo curso de Ingeniería Informática en la Universidade da Coruña.
 
-Here are some ideas to get you started:
+Me interesa especialmente la automatización con IA, las bases de datos y la creación de soluciones digitales para pequeños negocios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y herramientas
+- C
+- Python
+- SQL
+- Supabase
+- Git / GitHub
+- Excel y Microsoft Office
+- Cursor y herramientas de desarrollo asistido por IA
+
+### Proyectos destacados
+
+**Business Assistant MVP**  
+Prototipo de asistente para pequeños negocios orientado a automatización, organización y seguimiento de tareas.
+
+**AI Clinic Growth Web**  
+Prototipo de plataforma enfocada en automatización y crecimiento digital para negocios del sector sanitario.
+
+Actualmente utilizo herramientas de IA como apoyo al desarrollo, enfocándome en comprender la lógica, las bases de datos, la estructura de los proyectos y la resolución de problemas.
+
